@@ -17,10 +17,10 @@ The code in this repository demonstrates how to use MLflow in various stages of 
 The code in this repository is based on a project aimed at predicting loan defaults using a dataset from the finance domain. It includes:
 
 - **Data Preprocessing**: Preprocessing the dataset to prepare it for model training.
-- **Model Training**: Training machine learning models (e.g., RandomForestClassifier) on the preprocessed data.
+- **Model Training**: Training machine learning model on the preprocessed data.
 - **Hyperparameter Tuning**: Optimizing model hyperparameters using MLflow's hyperparameter tuning capabilities.
-- **Model Deployment**: Deploying the best-performing model as a REST API using MLflow's model serving capabilities.
-- **Experiment Tracking**: Logging parameters, metrics, and models during model training using MLflow tracking.
+- **Model Deployment**: Deploying the model as a REST API using MLflow's model serving capabilities.
+- **Experiment Tracking**: Logging parameters, metrics and models during model training using MLflow tracking.
 - **Performance Monitoring**: Setting up mechanisms to monitor the deployed model's performance over time using MLflow.
 
 ## Prerequisites
