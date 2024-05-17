@@ -29,10 +29,8 @@ Before running the code in this repository, ensure that you have the following d
 
 - Python 3.x
 - MLflow (install using `pip install mlflow`)
-- Additional Python libraries specified in requirements.txt (install using `pip install -r requirements.txt`)
 
 ## Conclusion
 
-This repository serves as a comprehensive demonstration of utilizing MLflow to streamline the machine learning lifecycle. By leveraging MLflow's robust capabilities for experiment tracking, model training, hyperparameter tuning, model deployment, and performance monitoring, developers and data scientists can effectively manage and iterate on their machine learning projects with ease.
-
+This repository serves as a comprehensive demonstration of utilizing MLflow to streamline the machine learning lifecycle. By leveraging MLflow's robust capabilities for experiment tracking, model training, hyperparameter tuning, model deployment and performance monitoring.
 
